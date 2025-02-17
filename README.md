@@ -1,4 +1,4 @@
-### Hi there, I'm Vaishnav Mankar! 👋
+# Hi there, I'm Vaishnav Mankar! 👋
 
 🚀 **Data Science Enthusiast | Scientific Computing Student**
 
